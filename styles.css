@@ -1,6 +1,10 @@
 ul{
     list-style-type: none;
 }
+button
+{
+    padding: 8px 16px;
+}
 .left-links img
 {
     width: 50px;
@@ -85,4 +89,30 @@ ul{
     font-size: 36px;
     color: #1f2937;
     padding: 36px;
+}
+
+.content .testimonials
+{
+    background-color: #e5e7eb;
+    
+}
+.content .testimonials p
+{
+    font-size: 36px;
+    font-style: italic;
+    justify-self: center;
+    width: 600px;
+}
+.by-line
+{
+    text-align: right;
+}
+.call
+{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    margin: 32px;
+    padding: 16px;
+    background-color: #3882f6;
 }
