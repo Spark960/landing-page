@@ -58,6 +58,7 @@ button
     gap: 48px;
     align-items: center;
     max-width: 850px;
+    flex-wrap: wrap;
 }
 
 .main-text
@@ -161,6 +162,7 @@ button
     color:#e5e7eb;
     max-width: 900px;
     align-self: center;
+    flex-wrap: wrap;
     
 }
 .call button
