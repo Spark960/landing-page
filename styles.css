@@ -58,7 +58,6 @@ button
     gap: 48px;
     align-items: center;
     max-width: 850px;
-    flex-wrap: wrap;
 }
 
 .main-text
